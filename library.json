@@ -1,8 +1,8 @@
 {
   "id": "{B1C2D3E4-0000-0000-0000-123456789ABC}",
   "name": "Stromkosten Bibliothek",
-  "author": "Lars",
-  "url": "https://github.com/bfe-symcon/dynamischer_stundenpreis",
+  "author": "Dein Name",
+  "url": "https://github.com/deinname/stromkosten-logger",
   "version": "1.0",
   "modules": [
     {
@@ -11,7 +11,7 @@
       "type": 3,
       "vendor": "DeinName",
       "version": "1.0",
-      "url": "module.php"
+      "url": "StromkostenLogger"
     }
   ]
 }
