@@ -1,7 +1,7 @@
 {
   "id": "{B1C2D3E4-0000-0000-0000-123456789ABC}",
   "name": "Stromkosten Bibliothek",
-  "author": "Lars Schröder",
+  "author": "Lars",
   "url": "https://github.com/bfe-symcon/dynamischer_stundenpreis",
   "version": "1.0",
   "modules": [
