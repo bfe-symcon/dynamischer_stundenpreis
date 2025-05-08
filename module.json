@@ -1,0 +1,15 @@
+{
+  "id": "{A1B2C3D4-0001-0002-0003-123456789ABC}",
+  "name": "Stromkosten Logger",
+  "type": 3,
+  "vendor": "DeinName",
+  "version": "1.0",
+  "author": "Dein Name",
+  "url": "https://github.com/deinname/stromkosten-logger",
+  "compatibility": {
+    "version": "6.0"
+  },
+  "files": [
+    "module.php"
+  ]
+}
